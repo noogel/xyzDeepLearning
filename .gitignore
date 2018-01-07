@@ -1,8 +1,4 @@
 *.pyc
 .idea/
-tensorflow/data/MNIST_data/*
-tensorflow/models/
-tensorflow/tensorflow-zh/
-tensorflow/.ipynb_checkpoints/
-matplotlib/.ipynb_checkpoints/
+.ipynb_checkpoints/*
 tensorflow/MNIST_data/*
